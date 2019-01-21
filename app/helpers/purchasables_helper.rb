@@ -1,0 +1,2 @@
+module PurchasablesHelper
+end
